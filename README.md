@@ -2,8 +2,6 @@
 
 **An open-source CLI companion pet inspired by Claude Code's hidden BUDDY feature.**
 
-On March 31, 2026, Claude Code's source code was accidentally leaked. Among the 44 hidden feature flags discovered, one of the most surprising was **BUDDY** — a Tamagotchi-style companion pet system built into a developer CLI tool. It features 18 species, deterministic gacha, shiny variants, and AI-generated soul descriptions.
-
 Anthropic hasn't released it yet. So we built our own. Open source. For everyone.
 
 ## Features
